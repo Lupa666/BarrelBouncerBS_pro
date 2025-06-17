@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://c404teica6be7"]
+
+[ext_resource type="PackedScene" uid="uid://dg32rj5yq71r8" path="res://assets/Barrels/barrel2.glb" id="1_n8un1"]
+
+[node name="Tinkercad GLTF Scene" instance=ExtResource("1_n8un1")]
+
+[node name="Mesh_Mesh_head_geo_001_lambert2SG_001" parent="Node" index="0"]
+transform = Transform3D(400, 0, 0, 0, 400, 0, 0, 0, 400, -11.9375, -0.721425, 1.60188e-16)
+gi_mode = 0

@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://d11pw3mqhlp6l"]
+
+[ext_resource type="PackedScene" uid="uid://o7w87pbokg65" path="res://assets/Barrels/barrel1.glb" id="1_1fhfs"]
+
+[node name="Tinkercad GLTF Scene" instance=ExtResource("1_1fhfs")]
+
+[node name="Mesh_Mesh_head_geo_001_lambert2SG_001" parent="Node" index="0"]
+gi_mode = 0
+gi_lightmap_texel_scale = 0.01

@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://qk8gi1fkjrgq"]
+
+[ext_resource type="Texture2D" uid="uid://c48i1fd682icm" path="res://assets/TreesTexture/DeadOakTreeTrunk.png" id="1_lfwc2"]
+
+[resource]
+albedo_texture = ExtResource("1_lfwc2")
